@@ -1,2 +1,2 @@
-Attendancy
+attendancy
 ==========
